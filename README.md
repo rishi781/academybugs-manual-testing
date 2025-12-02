@@ -26,7 +26,16 @@ It demonstrates end-to-end manual testing including **test planning, test cases.
 ## Deliverables
 - Test Plan  
 - Test Cases   
-- Screenshots  
+- Screenshots:
+- Coverage Report:
+  <img width="1052" height="842" alt="Screenshot (589)" src="https://github.com/user-attachments/assets/c23300bc-fef1-4776-96f9-b235e6926c71" />
+
+- Traceability Report:
+<img width="572" height="845" alt="Screenshot (590)" src="https://github.com/user-attachments/assets/a2cbbbac-031b-449f-b11d-20c288fb794b" />
+
+-  Traceability matrix:
+ <img width="1120" height="831" alt="Screenshot (591)" src="https://github.com/user-attachments/assets/c0c23fbe-3a1a-4668-bb2b-9336a6c6dce6" />
+
 
 ## Author
 **Rishi S**  
